@@ -1,6 +1,11 @@
+# Python_Portfolio
+This is the portfolio of python code that I learned during BISC 450C
+
 ## Using Jupyter Notebooks
  
+https://1drv.ms/u/s!AkYRG43iflCniQzLpxP6-Coq-2bn?e=3UxbPh
 
+Here is a link of my Using Jupyter notebooks 1 and 2.
  
 # Python_Portfolio
 This is the portfolio of python code that I learned during BISC 450C
